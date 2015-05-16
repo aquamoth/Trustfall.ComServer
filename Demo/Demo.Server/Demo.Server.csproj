@@ -73,7 +73,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ComServer\Trustfall.ComServer.csproj">
+    <ProjectReference Include="..\..\ComServer\Trustfall.ComServer.csproj">
       <Project>{39ba6bd1-3c67-4e91-ba2a-f3eceb1bf8f9}</Project>
       <Name>Trustfall.ComServer</Name>
     </ProjectReference>
